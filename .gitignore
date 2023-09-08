@@ -1,0 +1,42 @@
+# Flutter specific
+**/build/
+**/ios/Flutter/.last_build_id
+
+# macOS Finder
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Android Studio
+/android/app/.gradle
+/android/app/build/
+/android/app/gradle/
+/android/build/
+/.android/
+
+# Compiled files
+*.class
+*.log
+*.pyc
+*.swp
+
+# Dart
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+
+# Dependencies
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Symbolication
+app.*.symbols
+
+# Obfuscation
+app.*.map.json

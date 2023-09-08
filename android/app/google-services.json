@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469262066884",
+    "project_id": "realfinalprojectjingjing",
+    "storage_bucket": "realfinalprojectjingjing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469262066884:android:e3c6315b94bcb17aad5591",
+        "android_client_info": {
+          "package_name": "com.example.movie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469262066884-rc136qf105for01k0dtvire9tdtsht3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmuvTIsw8fn14TbHSbHg6WNW9LNlWD_P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469262066884-rc136qf105for01k0dtvire9tdtsht3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
